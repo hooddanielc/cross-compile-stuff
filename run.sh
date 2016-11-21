@@ -1,0 +1,1 @@
+docker run -ti -v `pwd`:/home/developer/src just-some-fun bash
